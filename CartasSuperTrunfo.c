@@ -91,3 +91,6 @@ int main() {
     printf("Densidade Populacional: Carta 1 venceu (%d)\n", dens1 < dens2); // menor vence
     printf("PIB per Capita: Carta 1 venceu (%d)\n", percap1 > percap2);
     printf("Super Poder: Carta 1 venceu (%d)\n", poder1 > poder2);
+	
+    return 0;
+}
